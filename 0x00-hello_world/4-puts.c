@@ -1,5 +1,6 @@
 #include <stdio.h>
 /**
+*my function puts "Programming is like building a multilingual puzzle"
 *main - entry point
 *Return: always 0 (success)
 */
